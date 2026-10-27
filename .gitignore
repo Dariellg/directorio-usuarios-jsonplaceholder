@@ -1,0 +1,12 @@
+.gradle/
+.gradle-local/
+build/
+*/build/
+.android/
+*.iml
+local.properties
+.idea/
+emulator.log
+emulator-error.log
+chrome-profile/
+evidencias/*.log
